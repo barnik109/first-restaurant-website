@@ -1,0 +1,39 @@
+body{
+    background-color: yellow;
+    overflow: scroll;
+}
+.page{
+    text-align: center;
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    color:rgb(226, 250, 10);
+    font-family:cursive;
+    position: absolute;
+    background-color: black;
+    top:8%;    
+    left: 20%;
+    right: 20%;
+    letter-spacing: 20px;
+}
+p{color:violet;
+letter-spacing: 0px;}
+ul{
+    margin:0px;
+    padding:5px 0px 5px 30px;
+}
+ul{
+    display: inline;
+    word-spacing: 2em;
+    font-size: 20px;
+    position: absolute;
+    background-color:rgb(247, 135, 8);
+    width:96.6%;
+}
+.writing h1{margin:60px; font-size: 50px;}
+.writing p{color:black; margin:10px; font-size:20px;}
+.writing,.info{float: left; width:300px;margin:120px; }
+a:link{text-decoration: none;}
+.timings p{color: black;}
+.fb-share-button{margin-left: 10px;}
